@@ -1,3 +1,9 @@
+# Sistema de deteccion de anemia mediante conjuntiva palpebral
+**Sistema de deteccion de anemia para diferentes tipo de personas** es una aplicación full-stack desarrollada por  
+[JonathanSantamaria](https://github.com/JonathanSantamaria)
+utilizando **Python 3.14**, **Opencv-python-headless**, **Grad-cam** y la librería de componentes **Matplotlib** y **Numpy** para la interfaz de numeración.
+
+
 # Detección de Anemia - Conjuntiva Palpebral - Desarrollado por Jonathan Santamaria
 
 ## Archivos
