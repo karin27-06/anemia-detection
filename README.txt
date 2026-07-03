@@ -1,4 +1,4 @@
-# Detección de Anemia - Conjuntiva Palpebral
+# Detección de Anemia - Conjuntiva Palpebral - Desarrollado por Jonathan Santamaria
 
 ## Archivos
 - app.py                      → aplicación web Streamlit
